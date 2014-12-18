@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="85dp"
+        android:paddingLeft="115dp"
+        android:textSize = "25sp"
+        android:typeface="sans"
+        android:gravity = "center_vertical"
+        android:text="sdfsdf"
+        android:drawSelectorOnTop="false" >         
+    </TextView>
+    
+
+</LinearLayout>

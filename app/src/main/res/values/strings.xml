@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GilApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login_ui">LoginUI</string>
+    <string name="id">아이디</string>
+    <string name="password">비밀번호</string>
+    <string name="login">로그인</string>
+    <string name="title_activity_first_category_ui">FirstCategoryUI</string>
+    <string name="title_activity_board">BoardActivity</string>
+    <string name="title_activity_about_ui">AboutUI</string>
+    <string name="title_activity_article_list_ui">ArticleListUI</string>
+    <string name="title_activity_article_ui">ArticleUI</string>
+
+</resources>
