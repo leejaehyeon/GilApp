@@ -29,10 +29,7 @@
         <activity android:name="org.thegil.gilapp.BoardUI" />
         <activity android:name="org.thegil.gilapp.AboutUI" />
         <activity android:name="org.thegil.gilapp.ArticleListUI" />
-        <activity
-            android:name="org.thegil.gilapp.ArticleUI"
-            android:label="@string/title_activity_article_ui" >
-        </activity>
+        <activity android:name="org.thegil.gilapp.ArticleUI" />
     </application>
 
 </manifest>
